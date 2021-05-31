@@ -3,7 +3,7 @@ import cv2
 import os
 
 # path to save image
-PATH = '/home/bhabuk/scissor_paper_rock/dataset/train/paper'
+PATH = '/home/tmb3114/scissor_paper_rock/dataset/train/paper'
 COUNT = 1500
 start_capture = False
 # to capture video
